@@ -1,0 +1,10 @@
+# Default behavior
+*.tsx linguist-detectable
+
+*.png binary
+*.min.js linguist-generated
+public/*.html linguist-vendored
+build/* linguist-vendored
+
+* text=auto eol=lf
+# eof 029679d9
