@@ -1,0 +1,7 @@
+coverage/
+yarn-error.log*
+.env.local
+.next/
+*.log
+.DS_Store
+node_modules/
